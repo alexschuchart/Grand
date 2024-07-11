@@ -1,6 +1,5 @@
-print("hello")
-x = input("sup")
+x = int(input("sup"))
 if x == 7:
     print("yeah")
-    else
+else:
     print("uh oh")
