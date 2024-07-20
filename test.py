@@ -9,3 +9,5 @@ if x < 8:
     print("x is", x)
 else:
     print("rawo")
+i = input("what is up? ")
+print("nuh uh")
