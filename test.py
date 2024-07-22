@@ -10,4 +10,4 @@ if x < 8:
 else:
     print("rawo")
 i = input("what is up? ")
-print("nuh uh")
+print("you mean", i.upper())
