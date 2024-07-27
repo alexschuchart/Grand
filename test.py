@@ -11,3 +11,9 @@ else:
     print("rawo")
 i = input("what is up? ")
 print("you mean", i.upper())
+
+
+y = int(input("What's y? "))
+
+if y == x:
+    print(" nah")
