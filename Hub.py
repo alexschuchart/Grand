@@ -7,7 +7,7 @@ print("Press 1 for hello")
 #i guess you would pick a nubmer here or something?
 
 #1 so restart python and link to it from here?
-
+#good thinking
 
 #classes
 #getters and setters
