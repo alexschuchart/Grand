@@ -11,3 +11,5 @@ print("Press 1 for hello")
 
 #classes
 #getters and setters
+
+#learn how to set up to share with mike
